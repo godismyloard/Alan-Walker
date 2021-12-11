@@ -89,13 +89,17 @@
             "required": false
         },
         "SINGLE_BUTTON": {
-            "description": "choose b/w single or double buttons https://github.com/EvamariaTG/EvaMaria/issues/22",
+            "description": "choose b/w single or double buttons https://github.com/godismyloard/Alan-Walker/issues/22",
             "required": false
         },
         "P_TTI_SHOW_OFF": {
             "description": "Customize Result Buttons to Callback or Url by (True = url / False = callback)",
             "required": false
-        }
+        },
+        "FILE_CAPTION": {
+            "File Caption bold or mono",
+            "required": false
+      }
     },
     "addons": [],
     "buildpacks": [{

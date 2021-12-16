@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/godismyloard/Alan-Walker",
-    "repository": "https://github.com/godismyloard/Alan-Walker",
+    "website": "https://github.com/godismyloard/alanwalkerbotz",
+    "repository": "https://github.com/godismyloard/alanwalkerbotz",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
